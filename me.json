@@ -1,0 +1,18 @@
+{
+"name": "Aashika",
+"year": "2023-2027",
+"cgpa":9.2,
+"branch":"ECE",
+"placed":false,
+"skills": ["Python basics", "C basics", "Linux", "Windows", "vibe coding"],
+"college": {
+"name": "Info Institute of Engineering",
+"city": "Coimbatore"
+},
+"projects": [
+{ "title": "E-commerce website", "tools": ["vibe coding"] },
+{ "title": "Movie recommendation system", "tools": ["vibe coding"] },
+{ "title": "AI-based business simulation", "tools": ["AI"] },
+{"title":"log analysis dashboard","tools":["google stitch","python"]}
+]
+}
